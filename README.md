@@ -1,1 +1,1 @@
-C++ minor projects
+C++ Minor Projects
